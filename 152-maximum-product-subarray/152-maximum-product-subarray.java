@@ -15,7 +15,6 @@ class Solution {
             min_so_far = Math.min(curr, Math.min(max_so_far*curr, min_so_far*curr));
             max_so_far = temp_max;
             result = Math.max(max_so_far,result);
-            
         }
         return result;
         
