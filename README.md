@@ -6,10 +6,12 @@ My leetcode solutions synced via Leethub
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/maniezhilan/leetcode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/maniezhilan/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/maniezhilan/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/maniezhilan/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/maniezhilan/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
@@ -19,6 +21,7 @@ My leetcode solutions synced via Leethub
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/maniezhilan/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/maniezhilan/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/maniezhilan/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -40,5 +43,6 @@ My leetcode solutions synced via Leethub
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/maniezhilan/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/maniezhilan/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
