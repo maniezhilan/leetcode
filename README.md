@@ -10,6 +10,7 @@ My leetcode solutions synced via Leethub
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/maniezhilan/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/maniezhilan/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -18,6 +19,7 @@ My leetcode solutions synced via Leethub
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/maniezhilan/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/maniezhilan/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -35,4 +37,8 @@ My leetcode solutions synced via Leethub
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/maniezhilan/leetcode/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/maniezhilan/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
